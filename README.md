@@ -10,7 +10,7 @@ Critically examined human-legal perspective on DPA 2018.
 Perfomerd vulnerabilities test of one of OWASPS top 10 website to identify a crucial flaw that meets insecure design and possible recommedations
 
 ### Security Protocol Analysis on the SolarWinds Supply Chain Cyberattack Case
-Perform an indepth anaylsis of one of the largest cyber attack in history: SolarWind Attac;, to identify possible flaws and vulnerabilities and how choosing the right transfer protocol could have limited its exposure
+Perform an indepth anaylsis of one of the largest cyber attack in history: SolarWind Attack; to identify possible flaws and vulnerabilities and how choosing the right transfer protocol could have limited its exposure
 
 ## Licensing & Use
 These academic projects are provided for educational and portfolio purposes. Do not reuse without proper attribution.
